@@ -15170,7 +15170,6 @@ Source: 008-0260-0_E.pdf</description>
 <part name="C2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="050-025X075" package3d_urn="urn:adsk.eagle:package:23637/1"/>
 <part name="C3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="050-025X075" package3d_urn="urn:adsk.eagle:package:23637/1"/>
 <part name="FRAME2" library="frames" library_urn="urn:adsk.eagle:library:229" deviceset="A4L-LOC" device=""/>
-<part name="FRAME3" library="frames" library_urn="urn:adsk.eagle:library:229" deviceset="A4L-LOC" device=""/>
 <part name="U2" library="ATMEGA32U4-AU" deviceset="ATMEGA32U4-AU" device=""/>
 <part name="U3" library="RFM95W-868S2" deviceset="RFM95W-868S2" device=""/>
 <part name="X2" library="con-cypressindustries" library_urn="urn:adsk.eagle:library:138" deviceset="MINI-USB-" device="32005-201" package3d_urn="urn:adsk.eagle:package:6443/1"/>
@@ -15975,21 +15974,6 @@ Source: 008-0260-0_E.pdf</description>
 <label x="157.48" y="78.74" size="1.778" layer="95"/>
 </segment>
 </net>
-</nets>
-</sheet>
-<sheet>
-<plain>
-</plain>
-<instances>
-<instance part="FRAME3" gate="G$1" x="-10.16" y="-22.86" smashed="yes">
-<attribute name="DRAWING_NAME" x="207.01" y="-7.62" size="2.54" layer="94"/>
-<attribute name="LAST_DATE_TIME" x="207.01" y="-12.7" size="2.286" layer="94"/>
-<attribute name="SHEET" x="220.345" y="-17.78" size="2.54" layer="94"/>
-</instance>
-</instances>
-<busses>
-</busses>
-<nets>
 </nets>
 </sheet>
 </sheets>
